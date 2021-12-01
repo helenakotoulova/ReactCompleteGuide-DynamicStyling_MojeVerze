@@ -1,0 +1,9 @@
+.polozka {
+    width: 500px;
+    background-color: maroon;
+    color: white;
+    text-align: left;
+    margin: 20px auto; /* pokud tady nebude tenhle margin, tak to bude furt naboko*/
+    padding: 1rem;
+    cursor: pointer;
+}

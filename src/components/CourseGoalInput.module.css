@@ -1,0 +1,39 @@
+.form {
+    margin: auto;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    /*border: 1px solid black;*/
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    width: 300px;
+    text-align: left;
+
+}
+
+.form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form input {
+    margin-bottom: 5px;
+}
+
+.actions {
+    text-align: left;
+}
+
+.actions button {
+    font-size: inherit;
+    background-color: maroon;
+    border-color: maroon;
+    color:white;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.actions button:hover,
+.actions button:active {
+    background-color: firebrick;
+    border-color: firebrick;
+}
